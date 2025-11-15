@@ -125,7 +125,7 @@ Each result record includes:
 ---
 
 ## 👨‍💻 Author
-**By: Nxploited (Khaled Alenazi)**
+**By: DaylorSec (Mr. IDIOT)**
 
 This GUI tool was adapted from original exploit research and improved with user-friendly controls.
 
